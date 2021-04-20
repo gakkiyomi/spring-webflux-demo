@@ -4,3 +4,7 @@
 ## 路由方式
 + 注解式路由
 + 函数式路由
+
+## CloudEvents
++ 解析cloudEvents格式数据
++ 返回cloudEvents格式数据
