@@ -8,3 +8,7 @@
 ## CloudEvents
 + 解析cloudEvents格式数据
 + 返回cloudEvents格式数据
+
+## r2dbc
++ 使用r2dbc连接postgresql数据库
+  + r2dbc不支持类似与JPA一样的可以通过实体类生成数据库表
